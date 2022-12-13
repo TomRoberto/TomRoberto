@@ -1,10 +1,12 @@
 ### Hi there 👋 🇫🇷
 
-I am a full-stack web developer
+I am a full-stack web developer.
 
 I main JS, React, React Native and NextJS.
 
-I teach these notions at LeReacteur coding bootcamp.
+I teach these notions at [LeReacteur coding bootcamp](https://www.lereacteur.io/). 
+
+I am currenlty working on a side project
 
 <!--
 **TomRoberto/TomRoberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
