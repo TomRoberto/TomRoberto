@@ -6,7 +6,7 @@ I main JS, React, React Native and NextJS.
 
 I teach these notions at [LeReacteur coding bootcamp](https://www.lereacteur.io/). 
 
-I am currenlty working on a side project
+I am currenlty working on a side project, more to come ...
 
 <!--
 **TomRoberto/TomRoberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
